@@ -66,8 +66,6 @@ We chose to separate our application into a backend and frontend. Django is well
 | Week 9 (4/28-5/2) | Debug and refinement on both backend and frontend for better user experience. Improving the model accuracy to 80%. Try to improve speed and performance of live gesture inputs. |
 | Week 10 (5/5-5/9) | Continued refinement on performance. Multi-device support  Educational resources embedded Prepare for final presentation and writing user documentation |
 
-*Reasoning for the above timeline:* 
-
 # **Potential Risks**
 
 * **Handwriting Recognition Accuracy**: The AI/ML model may misinterpret handwritten input, leading to incorrect LaTeX code. Use mature packages and full testing to avoid problems.   
